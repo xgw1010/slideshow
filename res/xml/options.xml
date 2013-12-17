@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference 
+        android:key="@string/interval_options"
+        android:title="@string/interval_title"
+        android:summary="@string/interval_summary"
+        android:entries="@array/interval_options"
+        android:entryValues="@array/interval_options_values"
+        android:dialogTitle="@string/interval_dialogTitle"
+        android:defaultValue="@string/interval_default_value"/>
+    
+    <ListPreference 
+        android:key="@string/switching_effect"
+        android:title="@string/switching_effect_title"
+        android:summary="@string/switching_effect_summary"
+        android:entries="@array/switching_effect"
+        android:entryValues="@array/switching_effect_values"
+        android:dialogTitle="@string/switching_effect_dialogTitle"
+        android:defaultValue="@string/swithing_effect_default_value"/>
+
+</PreferenceScreen>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">相册幻灯机</string>
+    <string name="action_settings">设置</string>
+    <string name="action_add_text">文字</string>
+    <string name="confirm">确定</string>
+    
+    <string name="interval_title">切换间隔</string>
+    <string name="interval_summary">设置图片切换间隔</string>
+    <string name="interval_dialogTitle">选择切换间隔</string>
+    
+    <string name="switching_effect_title">切换特效</string>
+    <string name="switching_effect_summary">设置切换特效</string>
+    <string name="switching_effect_dialogTitle">选择切换特效</string>
+    
+    <string name="add_text">添加文字</string>
+</resources>

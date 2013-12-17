@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Slide Show</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add_text">Text</string>
+    <string name="interval_default_value">5</string>
+
+    <string name="interval_options">interval_options</string>
+    <string name="interval_title">Switching Interval</string>
+    <string name="interval_summary">Set Switching Interval</string>
+    <string name="interval_dialogTitle">Choose Switching Interval</string>
+    
+    <string name="switching_effect">switching_effect</string>
+    <string name="switching_effect_title">Switching Effect</string>
+    <string name="switching_effect_summary">Set Switching Effect</string>
+    <string name="switching_effect_dialogTitle">Choose Switching Effect</string>
+    <string name="swithing_effect_default_value">1000</string>
+    
+    <string name="confirm">OK</string>
+    <string name="add_text">Add Text</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="interval_options">
+        <item>5秒</item>
+        <item>10秒</item>
+        <item>30秒</item>
+        <item>1分钟</item>
+    </string-array>
+    
+    <string-array name="switching_effect">
+        <item>平滑</item>
+        <item>翻滚</item>
+        <item>淡入淡出</item>
+        <item>自由下落</item>
+        <item>随机</item>
+    </string-array>
+</resources>
